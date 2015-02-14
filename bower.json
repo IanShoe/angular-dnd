@@ -1,6 +1,6 @@
 {
   "name": "angular-dnd",
   "version": "0.1.6",
-  "main": "./dnd.js",
+  "main": ["dnd.js", "dnd.css",
   "dependencies": {}
 }
